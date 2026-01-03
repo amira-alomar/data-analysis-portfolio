@@ -1,4 +1,3 @@
-# data-analysis-portfolio
 # Data Analysis Portfolio
 
 This repository showcases my data analysis projects, focusing on practical data exploration, cleaning, and insight generation using industry-relevant tools.
