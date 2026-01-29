@@ -1,1 +1,1 @@
-Project 2 - Sales
+Project 2 - Sales Analysis
